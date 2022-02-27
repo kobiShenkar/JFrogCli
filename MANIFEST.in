@@ -1,0 +1,4 @@
+include requirements.txt
+include LICENSE.txt
+recursive-include FrogCli *
+recursive-include config *
